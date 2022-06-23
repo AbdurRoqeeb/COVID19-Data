@@ -18,7 +18,7 @@ Day, Month and Year columns were extracted from the Year column.
 ----
 ## Findings and Recommendations
 ### Findings
-1. There are still new cases of COVID!( as at June 2022.
+1. There are still new cases of COVID19 as at June 2022.
 2. The United States have the highest cummulative confirmed cases since January 2020.
 3. North Korea have the lowest cummulative confirmed cases since January 2020.
 4. The month of May have the highest cummulative confirmed cases since 2020.
